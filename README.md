@@ -1,9 +1,11 @@
-# Tea-Shop-Project
+# TEA-SHOP-PROJECT
+
 System Architecture, UML Diagrams &amp; Database Schema For An Online Tea Store
 ===============================================================================
 
-Note To Readers:
-----------------
+
+Note To All Readers:
+-------------------
 
 The diagrams used in this project were created with UMLet.
 Those readers wanting to view/edit the .uxf files in which these diagrams are 
